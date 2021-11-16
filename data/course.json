@@ -1,0 +1,38 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Materials Selection"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Science and Engineering"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Structural Mechanics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c52a2cd3-e2b0-3da9-77a3-0aa88635c03b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Computational Mechanics of Materials",
+  "course_description": "16.225 is a graduate level course on Computational Mechanics of Materials. The primary focus of this course is on the teaching of state-of-the-art numerical methods for the analysis of the nonlinear continuum response of materials. The range of material behavior considered in this course includes: linear and finite deformation elasticity, inelasticity and dynamics. Numerical formulation and algorithms include: variational formulation and variational constitutive updates, finite element discretization, error estimation, constrained problems, time integration algorithms and convergence analysis. There is a strong emphasis on the (parallel) computer implementation of algorithms in programming assignments. The application to real engineering applications and problems in engineering science is stressed throughout the course.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.225",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
